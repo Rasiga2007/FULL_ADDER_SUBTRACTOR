@@ -60,10 +60,10 @@ endmodule
 */
 
 **RTL Schematic**
-
-**Output Timing Waveform**
 ![Output](fa2.jpeg)
+**Output Timing Waveform**
 ![Output](fa1.jpeg)
+
 **Result:**
 
 Thus the Full Adder and Full Subtractor circuits are designed and the truth tables is verified using Quartus software.
