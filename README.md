@@ -43,6 +43,7 @@ Borrow out = A'Bin + A'B + BBin
 Write the detailed procedure here
 
 **Program:**
+```
 module exp4(clk, sin, q);
 input clk;
 input sin;
@@ -56,6 +57,7 @@ q[2] <= q[1];
 q[3] <= q[2];
 end
 endmodule
+```
 /* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
 */
 
